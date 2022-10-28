@@ -1,4 +1,24 @@
-O renascimento surgiu na Itália, no início do século XV. Foi o primeiro grande movimento artístico, científico, literário e filosófico da modernidade.
-Ele marcou a transiçao da Idade Media para a Idade Moderna.
-Mas, isso todos sabemos... Vamos um pouco mais a fundo nisso!
-Então... Era uma vez, uma cidade chamada "Constantinopla"
+<!DOCTYPE html>
+<html lang="pt-br" >
+   <head>
+      <meta charset="UTF-8">
+      <title>O renascimento</title>
+      
+      <style>
+         p {
+             text-align: center
+         }
+      </style>
+  </head>
+   
+  <body>
+      <h1 style="text-align: center" O renascimento</h1>
+
+      <p O renascimento</strong> surgiu na Itália, no início do século XV. Foi o primeiro grande movimento artístico, científico, literário e filosófico da modernidade.
+      Ele marcou a transiçao da Idade Media para a Idade Moderna.</p>
+      Mas, isso todos sabemos... Vamos um pouco mais a fundo nisso!
+     
+      <p style="text-align: center"<em>Então... <strong>Era uma vez, uma cidade chamada "Constantinopla"<strong></em></p>
+   </body>
+  
+</html>
