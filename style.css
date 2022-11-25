@@ -18,3 +18,14 @@ p {
 em strong {
   color: #FF0000;
 {
+.itens {
+   font-stule: italic
+}   
+ 
+h2{   
+  text-align: center;
+}  
+
+.imagembeneficios {
+    width: 50%;
+ }
